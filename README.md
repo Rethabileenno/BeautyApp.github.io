@@ -15,7 +15,7 @@ Welcome to the BeautyApp repository, a beauty application inspired by the Glamsq
 
  Open `index.html` in your preferred web browser. 
  or 
- 
+ https://rethabileenno.github.io/BeautyApp.github.io/beautyapp.html
 
 ## Dependencies
 
